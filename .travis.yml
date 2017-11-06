@@ -44,4 +44,4 @@ script:
 
 # After a build, send email notification with the build results
 notifications:
-  email: etienne.leba@gmail.com
+    slack: testtravisgroupe:J2ot5wRFlqq41FdeyT0dQj30
